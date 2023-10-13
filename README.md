@@ -1,2 +1,2 @@
 # air-quality-dicoding
- Project for **Analisis Data Dengan Python** by dicoding
+ Personal Project for completing **Belajar Analisis Data Dengan Python** course on Dicoding
